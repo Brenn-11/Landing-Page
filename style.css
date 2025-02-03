@@ -187,3 +187,13 @@ body{
     padding: 0.5rem 2.5rem;
     border-radius: 0.5rem;
 }
+
+.footer{
+    background-color: var(--darkBlue);
+    padding: 1rem 5rem;
+}
+
+.footer__text{
+    color: var(--white);
+    text-align: center;
+}
